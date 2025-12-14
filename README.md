@@ -1,7 +1,7 @@
 
 
 
-# Multi-Threaded File Transfer System
+# High-Performance Secure File Transmission System 
 
 A robust and secure command-line interface (CLI) application for transferring files between a client and a  server.  
 Built with resilience in mind, it handles network interruptions gracefully and ensures data integrity through a custom protocol and strong encryption.
