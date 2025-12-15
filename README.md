@@ -34,7 +34,7 @@ The included `app.sh` script will auto-check and install required dependencies.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/sarv-projects/High-Performance-Secure-File-Transmission-System-.git
-cd CLI-based-MTFS
+cd High-Performance-Secure-File-Transmission-System-
 ````
 
 ### 2. Make the Script Executable
